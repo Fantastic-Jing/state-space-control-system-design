@@ -1,0 +1,13 @@
+# MATLAB and Simulink generated files
+*.slxc
+*.mex*
+slprj/
+_out/
+*.log
+*.mat
+!Lab1StateSpace2026V1.pdf
+!Lab2StateSpace-TSMD2026V2.pdf
+
+# Operating system files
+.DS_Store
+Thumbs.db
